@@ -1074,9 +1074,12 @@ a:hover {
 	text-align: center;
 }
 
-.copyright p,
-.copyright a {
+.copyright p {
 	color: #bfc4cd;
+	text-decoration: none;
+}
+.copyright a{
+	color: #7dc22b;
 	text-decoration: none;
 }
 
